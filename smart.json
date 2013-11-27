@@ -1,0 +1,8 @@
+{
+    "name": "Jquery-waypoints",
+    "description": "Waypoints is a jQuery plugin that makes it easy to execute a function whenever you scroll to an element.",
+    "homepage": "http://imakewebthings.com/jquery-waypoints/",
+    "author": "Justin Gray",
+    "version": "2.0.3",
+    "git": "https://github.com/JustinSGray/meteor-jquery-waypoints.git"
+}
